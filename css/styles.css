@@ -275,9 +275,5 @@ h1.section__header {
     display: block;
  
 }
-img.card-img-top.my-3 {
-    height: 300px;
-    width: auto;
-    margin: auto;
-}
+
 }
