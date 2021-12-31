@@ -21,7 +21,7 @@ Bootstrap - only Ulitity classes are used from bootstrap
  - Tested for Tabindex 
  - Updated the title for every page in the website 
  - Responsive web development has been exercised. 
- - 
+ 
 **CSS** 
  - Flex based styling has been exercised wherever possible
  - CSS Specificity has been leveraged
