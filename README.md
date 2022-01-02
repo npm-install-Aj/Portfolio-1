@@ -35,4 +35,4 @@ Bootstrap - only Ulitity classes are used from bootstrap
 
 **All the libraries used are CDNs (for a faster fetch time from server**
 
-The future roadmap of this portfolio is to, refine it and have it migrated to a Modern Web Technology Single Page Application (SPA) framework such as Angular/React utilizing SASS/SCSS with a backend of Node/Express/ NoSQL DB such as MongoDb or Casadra etc, following the best web practices and technology.
+The future roadmap of this portfolio is to, refine it and have it migrated to a Modern Web Technology Single Page Application (SPA) framework such as Angular/React utilizing SASS/SCSS with a backend of Node/Express/ NoSQL DB such as MongoDb or Casandra etc, following the best web practices and technology.
