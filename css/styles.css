@@ -138,6 +138,7 @@ a.logo{
 span#typedAnim {
     color: #3183a8;
     letter-spacing: 1px;
+    font-weight: 300;
 }
 
 span.typed-cursor {
