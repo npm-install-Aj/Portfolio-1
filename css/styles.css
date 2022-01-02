@@ -276,4 +276,13 @@ h1.section__header {
  
 }
 
+.gslide-desc {
+    position: relative;
+}
+
+.downloadIcon {
+    left: 75%;
+    margin-right:1rem;
+}
+
 }
